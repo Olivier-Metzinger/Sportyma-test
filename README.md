@@ -9,5 +9,6 @@ Gestion des données sur Redux.
 Après avoir cloné :
 
 - npm install
+- npm start
 
 APK à la racine du dossier.
